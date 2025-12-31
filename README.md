@@ -116,3 +116,4 @@ Business questions answered:
 
 -> November shows the highest quantity sold, with May and June following, reinforcing the presence of seasonal demand patterns.
 
+
